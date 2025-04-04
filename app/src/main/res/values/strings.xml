@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Картын апп</string>
+    <string name="no_word">Одоогоор үг оруулаагүй байна.</string>
+    <string name="word_entry">Үг оруулах хэсэг</string>
+    <string name="edit_word_title">Засварлах</string>
+    <string name="save_action">Хадгалах</string>
+    <string name="cancel_action">Буцах</string>
+    <string name="attention">устгах</string>
+    <string name="delete_question">Үгийг устгахдаа итгэлтэй байна уу?</string>
+    <string name="no">Үгүй</string>
+    <string name="yes">Тийм</string>
+    <string name="settings">Сонголт</string>
+</resources>
